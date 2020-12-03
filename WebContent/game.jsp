@@ -86,7 +86,7 @@ boolean allowBlankCards = injector.getInstance(Key.get(new TypeLiteral<Boolean>(
   <div id="tweetbox">
     <h3>Recent tweets (mainly server status updates)</h3>
     <a class="twitter-timeline" data-height="500" data-dnt="true" data-theme="light"
-    href="https://twitter.com/_PYX_?ref_src=twsrc%5Etfw">Tweets by _PYX_</a>
+    href="https://twitter.com/FakeIACR">Tweets by IACR</a>
     <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
   </div>
   <h1 tabindex="0">
